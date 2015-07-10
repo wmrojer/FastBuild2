@@ -1,0 +1,18 @@
+[
+{
+  "modid": "fastbuild2",
+  "name": "FastBuild2",
+  "description": "Faster building blocks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["robo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["Forge"],
+  "dependencies": [],
+  "useDependencyInformation": "true"
+}
+]

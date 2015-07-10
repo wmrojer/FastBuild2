@@ -1,0 +1,16 @@
+
+/bin/
+/.gradle/
+/.settings/
+/asm/
+/config/
+/libs/
+/logs/
+/mods/
+/saves/
+/screenshots/
+/options.txt
+/usernamecache.json
+/build.gradle.bak
+/.project
+/.classpath
